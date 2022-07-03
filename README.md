@@ -1,6 +1,6 @@
 # QR Based Attendance System
 
-QR Based Attendance System is a python programme for marking attendance by generating unique QR code for each individual. This is possible through Python's pandas, openyxl and qrcode libraries.
+QR Based Attendance System is a python program for marking attendance by generating unique QR code for each individual. This is possible through Python's pandas, openyxl and qrcode libraries.
 
 
 Notes:
